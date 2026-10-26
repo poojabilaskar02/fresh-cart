@@ -1,0 +1,28 @@
+/* Shared demo catalog. Images are served by Unsplash's public image CDN. */
+window.PRODUCTS = [
+  {id:'banana',name:'Robusta Banana',category:'Fruits',quantity:'6 pcs',price:42,image:'photo-1571771894821-ce9b6c11b08e',tag:'Popular'},
+  {id:'apple',name:'Red Apples',category:'Fruits',quantity:'4 pcs · 500 g',price:129,image:'photo-1560806887-1e4cd0b6cbd6',tag:'Fresh pick'},
+  {id:'mango',name:'Alphonso Mango',category:'Fruits',quantity:'2 pcs · 500 g',price:159,image:'photo-1553279768-865429fa0078',tag:'Seasonal'},
+  {id:'orange',name:'Sweet Oranges',category:'Fruits',quantity:'4 pcs',price:69,image:'photo-1547514701-42782101795e'},
+  {id:'avocado',name:'Creamy Avocado',category:'Fruits',quantity:'1 pc',price:89,image:'photo-1523049673857-eb18f1d7b578'},
+  {id:'tomato',name:'Farm Fresh Tomatoes',category:'Vegetables',quantity:'500 g',price:32,image:'photo-1546094096-0df4bcaaa337',tag:'Daily pick'},
+  {id:'spinach',name:'Baby Spinach',category:'Vegetables',quantity:'200 g',price:39,image:'photo-1576045057995-568f588f82fb'},
+  {id:'broccoli',name:'Green Broccoli',category:'Vegetables',quantity:'1 pc · 300 g',price:55,image:'photo-1459411621453-7b03977f4bfc'},
+  {id:'carrot',name:'Crunchy Carrots',category:'Vegetables',quantity:'500 g',price:38,image:'photo-1445282768818-728615cc910a'},
+  {id:'milk',name:'Farm Fresh Milk',category:'Dairy',quantity:'1 litre',price:64,image:'photo-1563636619-e9143da7973b',tag:'Bestseller'},
+  {id:'eggs',name:'Country Eggs',category:'Dairy',quantity:'6 pcs',price:58,image:'photo-1506976785307-8732e854ad03'},
+  {id:'cheese',name:'Cheddar Cheese',category:'Dairy',quantity:'200 g',price:119,image:'photo-1486297678162-eb2a19b0a32d'},
+  {id:'yogurt',name:'Greek Yogurt',category:'Dairy',quantity:'400 g',price:95,image:'photo-1488477181946-6428a0291777'},
+  {id:'bread',name:'Whole Wheat Bread',category:'Bakery',quantity:'400 g · loaf',price:48,image:'photo-1509440159596-0249088772ff',tag:'Fresh today'},
+  {id:'croissant',name:'Butter Croissant',category:'Bakery',quantity:'2 pcs',price:75,image:'photo-1555507036-ab1f4038808a'},
+  {id:'cookies',name:'Choco Chip Cookies',category:'Bakery',quantity:'200 g',price:89,image:'photo-1499636136210-6f4ee915583e'},
+  {id:'chips',name:'Classic Potato Chips',category:'Snacks',quantity:'52 g',price:20,image:'photo-1566478989037-eec170784d0b'},
+  {id:'almonds',name:'Premium Almonds',category:'Snacks',quantity:'200 g',price:189,image:'photo-1508061253366-f7da158b6d46'},
+  {id:'popcorn',name:'Sea Salt Popcorn',category:'Snacks',quantity:'90 g',price:49,image:'photo-1578849278619-e73505e9610f'},
+  {id:'juice',name:'Orange Juice',category:'Beverages',quantity:'1 litre',price:110,image:'photo-1600271886742-f049cd451bba'},
+  {id:'coffee',name:'Ground Coffee',category:'Beverages',quantity:'200 g',price:249,image:'photo-1559056199-641a0ac8b55e'},
+  {id:'water',name:'Mineral Water',category:'Beverages',quantity:'1 litre',price:20,image:'photo-1523362628745-0c100150b504'},
+  {id:'dishwash',name:'Lemon Dishwash',category:'Household',quantity:'500 ml',price:99,image:'photo-1600857544200-b2f666a9a2ec'},
+  {id:'tissues',name:'Soft Facial Tissues',category:'Household',quantity:'100 pulls',price:65,image:'photo-1583947215259-38e31be8751f'},
+  {id:'detergent',name:'Everyday Detergent',category:'Household',quantity:'1 kg',price:145,image:'photo-1607006344380-b6775a0824ce'}
+];
